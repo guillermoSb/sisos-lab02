@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.s": "arm",
+		"html.erb": "erb",
+		"stdlib.h": "c",
+		"errno.h": "c"
+	}
+}
